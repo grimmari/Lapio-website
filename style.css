@@ -1,1 +1,4 @@
-p {background-color: red;}
+* {color: firebrick;}
+.otsikko {color: blue;}
+ul,li {color: fuchsia}
+#punainen{color: red;}
